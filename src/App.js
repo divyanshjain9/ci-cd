@@ -15,6 +15,7 @@ function App() {
             <li>Profile</li>
             <li>Settings</li>
             <li>Logout</li>
+            <li>New List Options</li>
           </ul>
         </div>
         <div className="App-content">
